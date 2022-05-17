@@ -1,0 +1,18 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: #EDF2F8;
+    height: 100%;
+    font-size: 12px;
+    
+}
